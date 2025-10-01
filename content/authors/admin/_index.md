@@ -6,8 +6,8 @@ title: Alex Johnson
 name_pronunciation: ''
 
 # Full name (for SEO)
-first_name: Alex
-last_name: Johnson
+first_name: Jungang
+last_name: Zou
 
 # Pronouns (optional)
 pronouns: he/him
@@ -23,41 +23,39 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Senior AI Research Scientist
+role: Ph.D. student
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Meta AI
-    url: https://ai.meta.com/
+  - name: Department of Biostatistics, Columbia University
+    url: https://www.publichealth.columbia.edu/academics/degrees/doctoral-programs/doctor-philosophy/biostatistics/student-profiles
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:alex.johnson@meta.com'
+    url: 'jz3183@cumc.columbia.com'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/AlexAIResearch
   - icon: brands/github
-    url: https://github.com/alexjohnsonai
+    url: https://github.com/zjg540066169
   - icon: brands/linkedin
-    url: https://www.linkedin.com/in/alexjohnsonai/
+    url: https://www.linkedin.com/mynetwork/grow/
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/citations?user=alexjohnson
+    url: https://scholar.google.com/citations?hl=en&view_op=list_works&gmla=AH8HC4yT2BveUW_G_2oAZHHcZDxrrfCIu7gCgMb0nmnOs1_w-EqbmsiU_zpfSmm7Fal5eVbLGEO-_gvm4e91Hw&user=rhESlrQAAAAJ
   - icon: academicons/orcid
-    url: https://orcid.org/0000-0002-1825-0097
-
+    url: https://orcid.org/0000-0002-5221-1489
+    
 interests:
-  - Large Language Models
-  - Computer Vision
-  - Reinforcement Learning
-  - AI Ethics
+  - Bayesian Methods
+  - Missing Data
+  - Causal Inference
+  - Survey Analysis
 
 education:
-  - area: PhD Computer Science (AI Focus)
-    institution: Stanford University
-    date_start: 2015-09-01
-    date_end: 2019-06-30
+  - area: PhD in Biostatistics
+    institution: Columbia University
+    date_start: 2022-09-01
+    date_end: 2027-05-30 (expected)
     summary: |
       Thesis on _Scaling Laws for Neural Language Models_. Supervised by Prof. Andrew Ng. Published 5 papers in NeurIPS and ICML, with 2 best paper awards.
     button:
