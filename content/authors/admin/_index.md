@@ -50,6 +50,7 @@ interests:
   - Missing Data
   - Causal Inference
   - Survey Analysis
+  - Statistical Computing
 
 education:
   - area: PhD in Biostatistics
@@ -155,4 +156,6 @@ awards:
       Recognized for contributions to scaling laws in deep learning.
 ---
 
-Alex Johnson is a Senior AI Research Scientist at Meta AI, where he leads groundbreaking work on large language models and multimodal systems. His research has been published in top conferences like NeurIPS and ICML, with over 10,000 citations. Alex is passionate about pushing the boundaries of AI while ensuring ethical development. Outside of work, he enjoys hiking in the Rockies, building custom PCs, and mentoring the next generation of AI talent.
+I am a fourth-year Ph.D. student in Biostatistics at Columbia University, advised by Dr. Qixuan Chen and Dr. Liangyuan Hu. Before coming to Columbia, I earned my Bachelor’s degree in Computer Software Engineering.
+
+My research focuses on the development and application of Bayesian methods, particularly in the areas of missing data, causal inference, and survey analysis. I am also interested in advancing computational tools for efficient Bayesian analysis, with the goal of making these methods more practical and scalable for applied research in biostatistics.
